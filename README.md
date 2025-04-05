@@ -32,7 +32,7 @@ This project presents an interactive Power BI dashboard developed to analyze piz
 
 - **Power BI**: For data modeling, DAX measures, and interactive visualization.
 - **SQL**: For data extraction and KPI calculation from the pizza_sales database.
-- **Excel** (optional): Initial data cleaning and structure validation.
+- **Excel** : Initial data cleaning and structure validation.
 
 ---
 
